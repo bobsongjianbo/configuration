@@ -1,4 +1,6 @@
-name: bob
-title: developer
-word: hello world!
-env: dev
+{
+  "name" : "bob",
+"title": "developer",
+"word": "hello world!",
+"env": "dev"
+}
