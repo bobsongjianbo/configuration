@@ -1,0 +1,5 @@
+name: song
+title: developer
+word: hello world!
+env: qa/qa
+serverPort: 9002
