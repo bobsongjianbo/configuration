@@ -1,0 +1,5 @@
+name: song
+title: developer
+word: hello world!
+env: sit/sit
+serverPort: 9003
