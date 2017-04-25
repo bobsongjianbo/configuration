@@ -1,0 +1,5 @@
+name: song
+title: developer
+word: hello world!
+env: dev/dev
+serverPort: 9001
