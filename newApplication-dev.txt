@@ -1,0 +1,8 @@
+{
+  "name" : "bob",
+"title": "developer",
+"word": "hello world!",
+"env": "dev",
+"format": "json",
+"fileFormat":"txt"
+}
