@@ -4,4 +4,6 @@ word: Hello World!
 eureka:
   client:
     service-url:
+      registerWithEureka: true
+      fetchRegistry: true 
       defaultZone: http://localhost:8010/eureka/
