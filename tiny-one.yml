@@ -1,3 +1,7 @@
 serverPort: 7001
 name: Bob Song
 word: Hello World!
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8010/eureka/
