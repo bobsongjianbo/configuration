@@ -1,0 +1,9 @@
+serverPort: 7002
+name: Tiny 2
+word: Hello World!
+eureka:
+  client:
+    service-url:
+      registerWithEureka: true
+      fetchRegistry: true 
+      defaultZone: http://localhost:8010/eureka/
